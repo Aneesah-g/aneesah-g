@@ -4,11 +4,12 @@
 <h2><br/><a href="https://github.com/aneesah-g">Tech Enthuasist </a>, <a href="https://www.linkedin.com/in/aneesahgay/">Cybersecurity Professional</a>, <a href="https://dev.to/https_aneesah">Occasional Blogger</a></h2>
 </h1>
 
+Cybersecurity Enthusiast | Former Incident Manager | ISC2 and Microsoft Identity and Access Administrator | Focused on IAM, Security Analysis & Incident Response
 <h2>👨‍💻 CyberSecurity Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
+- Automating Roles with TerraForm in AWS
+- EntraID Security Practices
   
-
 
 <h2>📺 Blog Post</h2>
 
@@ -16,15 +17,14 @@
 - [Social Engineering Scam:Cash App Debit card](https://dev.to/https_aneesah/debit-card-scam-courtesy-of-cashapp-1169)
 - [Explore It Testing](https://github.com/Aneesah-g/ExploreIt-Testing/wiki)
   
-<!--
+
 <h2> 🤳 Connect with me:</h2>
-[<img align="left" alt="AneesahGay| LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+<a href="https://www.linkedin.com/in/aneesahgay/">[linkedin]
+
+<!--
 [<img align="left" alt="JoshMadakor | Inst" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][devto]
-
-[devto]:https://dev.to/https_aneesah
+[<img align="left" alt="AneesahGay| LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][devto]:https://dev.to/https_aneesah
 [linkedin]:https://www.linkedin.com/in/aneesahgay/
-
-
 
 
 - 🔭 I’m currently working on ...
