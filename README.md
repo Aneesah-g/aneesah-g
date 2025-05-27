@@ -7,18 +7,19 @@
 <h2>👨‍💻 CyberSecurity Projects:</h2>
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  
 
 
 <h2>📺 Blog Post</h2>
 
-- [Debit Card Scam](https://dev.to/https_aneesah/debit-card-scam-courtesy-of-cashapp-1169)
+- [Next Stop: AWS Cloud "Cloud Security with IAM: Implementing Role-Based Access "](https://dev.to/https_aneesah/next-stop-aws-cloud-cloud-security-with-iam-implementing-role-based-access--618)
+- [Social Engineering Scam:Cash App Debit card](https://dev.to/https_aneesah/debit-card-scam-courtesy-of-cashapp-1169)
 - [Explore It Testing](https://github.com/Aneesah-g/ExploreIt-Testing/wiki)
   
 <!--
 <h2> 🤳 Connect with me:</h2>
 [<img align="left" alt="AneesahGay| LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][devto]
+[<img align="left" alt="JoshMadakor | Inst" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][devto]
 
 [devto]:https://dev.to/https_aneesah
 [linkedin]:https://www.linkedin.com/in/aneesahgay/
